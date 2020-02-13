@@ -23,5 +23,20 @@ One to one chat (Person to person)
 Search for Online Friend
 
 Enabling file sending support such as images, codes, executable files, music files , other media files , etc.
+## Login Window
+![Login window](https://github.com/AnujMNNIT/CHAT/blob/master/pics/chat2.png)
 
-[See User Guide Here](https://github.com/AnujMNNIT/CHAT/blob/master/UserGuiide.txt)
+## Chat Window
+![Chat window](https://github.com/AnujMNNIT/CHAT/blob/master/pics/chat.png)
+
+### Contributer
+
+[Anuj Singh](https://github.com/AnujMNNIT)
+
+
+
+
+
+
+
+
