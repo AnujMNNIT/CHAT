@@ -30,7 +30,7 @@ Enabling file sending support such as images, codes, executable files, music fil
 ![Chat window](https://github.com/AnujMNNIT/CHAT/blob/master/pics/chat.png)
 
 
-### Contributer
+### Contributor
 
 [Anuj Singh](https://github.com/AnujMNNIT)
 
